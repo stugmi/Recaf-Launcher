@@ -7,3 +7,4 @@ out/
 *.log
 generated/
 dependency-reduced-pom.xml
+__pycache__/
